@@ -109,16 +109,16 @@ article img{
     display:block;
     margin:auto;
 }
-form input {
-    margin-top:15px;
-    display:inline-block;
+#search-container {
+    text-align:center;
+    margin:auto;
 }
 #button-container {
     text-align:center;
 }
 form input[type=search] {
-    width:550px;
-    height:25px;
+    width:400px;
+    height:30px;
     background:white url(http://i.imgur.com/lFkqn.png) right center no-repeat;
 }
 form input[type=submit] {
